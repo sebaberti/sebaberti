@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for an opportunity as a software developer / Web programmer.
   
-- - 📝 I am pursuing a University degree as a technician in Programming at UTN.
+-  📝 I am pursuing a University degree as a technician in Programming at UTN.
 
 - 🛠️I have experience in administrative positions, because I studied business administration for 2 years.
 
